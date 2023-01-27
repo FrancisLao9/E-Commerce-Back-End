@@ -13,7 +13,8 @@ An E-Commerce Back End helps with sorting and organizing data needed for updatin
 
 ## Installation
 
-Link to Respository: <a href="https://github.com/FrancisLao9/E-Commerce-Back-End">Team Profile Generator</a>
+Link to Respository: <a href="https://github.com/FrancisLao9/E-Commerce-Back-End">E-Commerce</a>
+
 Link to Demo: <a href="https://drive.google.com/file/d/1WZlXlAf2DsC29BpqhkPlmiqH2KRTdrii/view">Demo</a>
 ## Usage
 
